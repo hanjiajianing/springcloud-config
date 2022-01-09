@@ -1,1 +1,2 @@
-this is dev.yml!
+config:
+  info: this is dev.yml!
